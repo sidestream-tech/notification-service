@@ -1,5 +1,5 @@
 > #### Please note:
-> This project is no longer being maintained. It was originally developed together with the Sidestream unified auctions ui. 
+> This project is no longer being maintained. It was originally developed together with the [Sidestream unified auctions ui](https://github.com/sidestream-tech/unified-auctions-ui). See the removal PR [here](https://github.com/sidestream-tech/unified-auctions-ui/pull/547).
 
 # Unified Auctions Notification Service
 
