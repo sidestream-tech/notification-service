@@ -1,7 +1,4 @@
-# project
-.env
-
-# macOS
+*.log
 .DS_Store
-
-secrets.yaml
+node_modules
+dist
